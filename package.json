@@ -1,8 +1,11 @@
 {
   "name": "nest-api",
   "version": "0.0.1",
-  "description": "",
-  "author": "",
+  "description": "Comprehensive REST API Boilerplate leveraging the power of NestJS and Fastify",
+  "author": {
+    "name": "Icaro Silva",
+    "email": "ikaromarlon@gmail.com"
+  },
   "private": true,
   "license": "UNLICENSED",
   "scripts": {
